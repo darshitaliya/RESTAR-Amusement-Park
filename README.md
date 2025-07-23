@@ -83,14 +83,16 @@ arduino
 Copy
 Edit
 http://localhost/RESTAR-Amusement-Park/
+
 👨‍💻 Author
-Darsh Italiya
+Developed by a Final Year BCA Student with a passion for creating practical web solutions.
+Feel free to reach out for customization, deployment, or freelance collaboration.
 
-Surat, India
-
-BCA Graduate | Passionate Web Developer
-
-📷 Preview
+📧 For queries/customizations: darshitaliya3@gmail.com
 
 📄 License
-This project is for educational purposes. Feel free to use and customize it.
+This project is licensed under the MIT License.
+You are free to use and modify it for personal or educational purposes.
+Reselling or commercial redistribution is prohibited without prior permission.
+
+✨ Thank you for checking out this project!
