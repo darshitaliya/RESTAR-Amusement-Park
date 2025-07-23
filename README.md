@@ -84,15 +84,21 @@ Copy
 Edit
 http://localhost/RESTAR-Amusement-Park/
 
-👨‍💻 Author
-Developed by a Final Year BCA Student with a passion for creating practical web solutions.
+## 👨‍💻 Author
+
+**Developed by a Final Year BCA Student** with a passion for creating practical web solutions.  
 Feel free to reach out for customization, deployment, or freelance collaboration.
 
-📧 For queries/customizations: darshitaliya3@gmail.com
+📧 **For queries/customizations:** [darshitaliya3@gmail.com](mailto:darshitaliya3@gmail.com)
 
-📄 License
-This project is licensed under the MIT License.
-You are free to use and modify it for personal or educational purposes.
-Reselling or commercial redistribution is prohibited without prior permission.
+---
 
-✨ Thank you for checking out this project!
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+You are free to use and modify it for personal or educational purposes.  
+❌ Reselling or commercial redistribution is **prohibited** without prior permission.
+
+---
+
+✨ **Thank you for checking out this project!**
