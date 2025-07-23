@@ -101,4 +101,5 @@ You are free to use and modify it for personal or educational purposes.
 
 ---
 
-✨ **Thank you for checking out this project!**
+##✨ **THANK YOU FOR CHECKING OUT THIS PROJECT!**
+
